@@ -55,6 +55,4 @@ $(shell mkdir -p $(TARGET_OUT)/lib/modules; \
 
 include device/letv/le_x2/tftp.mk
 
-include device/letv/le_x2/kernel/AndroidKernel.mk
-
 endif
