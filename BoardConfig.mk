@@ -163,7 +163,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072 # (BOARD_KERNEL_PAGESIZE * 64)
 TARGET_RIL_VARIANT := caf
 
 # Recovery
-TARGET_RECOVERY_FSTAB := $(PLATFORM_PATH)/rootdir/etc/fstab.qcom
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
 TARGET_RECOVERY_UI_LIB := librecovery_ui_msm
 TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_msm
 TARGET_RELEASETOOLS_EXTENSIONS := device/qcom/common
