@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-TARGET_OTA_ASSERT_DEVICE := x2,LeMax2_CN,LeMax2_NA
+TARGET_OTA_ASSERT_DEVICE := x2,le_x2,LeMax2_CN,LeMax2_NA
 
 DEVICE_PATH := device/leeco/x2
 
