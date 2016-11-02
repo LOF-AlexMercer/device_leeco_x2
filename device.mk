@@ -135,7 +135,7 @@ PRODUCT_PACKAGES += \
 
 # Yep
 PRODUCT_PACKAGES += \
-    libminui \
+    libminui
 
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \
@@ -257,7 +257,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     dsi_config.xml \
     netmgr_config.xml \
-    qmi_config.xml \
+    qmi_config.xml
 
 # Sensors
 PRODUCT_PACKAGES += \
